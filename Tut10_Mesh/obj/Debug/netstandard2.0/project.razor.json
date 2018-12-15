@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\HFU\\2Semester\\ComputerGrafik\\ComputergrafikMIBmaster\\ComputergrafikMIB-master\\Tut10_Mesh\\Tut10_Mesh.csproj",
+  "TargetFramework": "netstandard2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

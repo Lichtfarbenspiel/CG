@@ -1,0 +1,10 @@
+D:\HFU\2Semester\ComputerGrafik\ComputergrafikMIBmaster\ComputergrafikMIB-master\Tut10_Mesh\bin\Debug\netstandard2.0\Assets\AboutFuseeAssets.txt
+D:\HFU\2Semester\ComputerGrafik\ComputergrafikMIBmaster\ComputergrafikMIB-master\Tut10_Mesh\bin\Debug\netstandard2.0\Tut10_Mesh.deps.json
+D:\HFU\2Semester\ComputerGrafik\ComputergrafikMIBmaster\ComputergrafikMIB-master\Tut10_Mesh\bin\Debug\netstandard2.0\Tut10_Mesh.dll
+D:\HFU\2Semester\ComputerGrafik\ComputergrafikMIBmaster\ComputergrafikMIB-master\Tut10_Mesh\bin\Debug\netstandard2.0\Tut10_Mesh.pdb
+D:\HFU\2Semester\ComputerGrafik\ComputergrafikMIBmaster\ComputergrafikMIB-master\Tut10_Mesh\obj\Debug\netstandard2.0\Tut10_Mesh.csprojAssemblyReference.cache
+D:\HFU\2Semester\ComputerGrafik\ComputergrafikMIBmaster\ComputergrafikMIB-master\Tut10_Mesh\obj\Debug\netstandard2.0\Tut10_Mesh.csproj.CoreCompileInputs.cache
+D:\HFU\2Semester\ComputerGrafik\ComputergrafikMIBmaster\ComputergrafikMIB-master\Tut10_Mesh\obj\Debug\netstandard2.0\Tut10_Mesh.AssemblyInfoInputs.cache
+D:\HFU\2Semester\ComputerGrafik\ComputergrafikMIBmaster\ComputergrafikMIB-master\Tut10_Mesh\obj\Debug\netstandard2.0\Tut10_Mesh.AssemblyInfo.cs
+D:\HFU\2Semester\ComputerGrafik\ComputergrafikMIBmaster\ComputergrafikMIB-master\Tut10_Mesh\obj\Debug\netstandard2.0\Tut10_Mesh.dll
+D:\HFU\2Semester\ComputerGrafik\ComputergrafikMIBmaster\ComputergrafikMIB-master\Tut10_Mesh\obj\Debug\netstandard2.0\Tut10_Mesh.pdb
