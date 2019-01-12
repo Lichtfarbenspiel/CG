@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\HFU\\2Semester\\ComputerGrafik\\ComputergrafikMIBmaster\\ComputergrafikMIB-master\\Tut11_AssetsPicking\\Tut11_AssetsPicking.csproj",
+  "TargetFramework": "netstandard2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
