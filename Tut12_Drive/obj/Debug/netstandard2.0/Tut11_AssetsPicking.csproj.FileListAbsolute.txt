@@ -1,0 +1,11 @@
+D:\HFU\2Semester\ComputerGrafik\ComputergrafikMIBmaster\ComputergrafikMIB-master\Tut11_AssetsPicking\bin\Debug\netstandard2.0\Assets\AboutFuseeAssets.txt
+D:\HFU\2Semester\ComputerGrafik\ComputergrafikMIBmaster\ComputergrafikMIB-master\Tut11_AssetsPicking\bin\Debug\netstandard2.0\Assets\Traktor.fus
+D:\HFU\2Semester\ComputerGrafik\ComputergrafikMIBmaster\ComputergrafikMIB-master\Tut11_AssetsPicking\bin\Debug\netstandard2.0\Tut11_AssetsPicking.deps.json
+D:\HFU\2Semester\ComputerGrafik\ComputergrafikMIBmaster\ComputergrafikMIB-master\Tut11_AssetsPicking\bin\Debug\netstandard2.0\Tut11_AssetsPicking.dll
+D:\HFU\2Semester\ComputerGrafik\ComputergrafikMIBmaster\ComputergrafikMIB-master\Tut11_AssetsPicking\bin\Debug\netstandard2.0\Tut11_AssetsPicking.pdb
+D:\HFU\2Semester\ComputerGrafik\ComputergrafikMIBmaster\ComputergrafikMIB-master\Tut11_AssetsPicking\obj\Debug\netstandard2.0\Tut11_AssetsPicking.csprojAssemblyReference.cache
+D:\HFU\2Semester\ComputerGrafik\ComputergrafikMIBmaster\ComputergrafikMIB-master\Tut11_AssetsPicking\obj\Debug\netstandard2.0\Tut11_AssetsPicking.csproj.CoreCompileInputs.cache
+D:\HFU\2Semester\ComputerGrafik\ComputergrafikMIBmaster\ComputergrafikMIB-master\Tut11_AssetsPicking\obj\Debug\netstandard2.0\Tut11_AssetsPicking.AssemblyInfoInputs.cache
+D:\HFU\2Semester\ComputerGrafik\ComputergrafikMIBmaster\ComputergrafikMIB-master\Tut11_AssetsPicking\obj\Debug\netstandard2.0\Tut11_AssetsPicking.AssemblyInfo.cs
+D:\HFU\2Semester\ComputerGrafik\ComputergrafikMIBmaster\ComputergrafikMIB-master\Tut11_AssetsPicking\obj\Debug\netstandard2.0\Tut11_AssetsPicking.dll
+D:\HFU\2Semester\ComputerGrafik\ComputergrafikMIBmaster\ComputergrafikMIB-master\Tut11_AssetsPicking\obj\Debug\netstandard2.0\Tut11_AssetsPicking.pdb
