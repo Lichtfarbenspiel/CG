@@ -58,7 +58,8 @@ namespace Fusee.Tutorial.Core
             _sceneRenderer = new SceneRenderer(_scene);
             _scenePicker = new ScenePicker(_scene);
         }
-
+        
+   
         // RenderAFrame is called once a frame
         public override void RenderAFrame()
         {
@@ -71,15 +72,15 @@ namespace Fusee.Tutorial.Core
             
             float speed = Keyboard.UpDownAxis * 15.0f;
             float rotSpeed = Keyboard.LeftRightAxis * 3.0f;
-            float wheelRotSpeed = speed * Time.DeltaTime * 0.5f;
-            float wheelRotSpeedDelta = rotSpeed * Time.DeltaTime * 0.5f;
+            float wheelRotSpeed = speed * Time.DeltaTime * 0.3f;
+            float wheelRotSpeedDelta = rotSpeed * Time.DeltaTime * 0.3f;
             float yRot = _bodyTransform.Rotation.y + rotSpeed * Time.DeltaTime;
             float3 speed3d = new float3(speed * M.Sin(yRot), 0, speed * M.Cos(yRot));
 
             _bodyTransform.Translation = _bodyTransform.Translation + speed3d * Time.DeltaTime;
             _bodyTransform.Rotation = new float3(_bodyTransform.Rotation.x, yRot, _bodyTransform.Rotation.z);
             
-
+        
             _rightRearWheelTransform.Rotation = new float3(_rightFrontWheelTransform.Rotation.x + wheelRotSpeed - wheelRotSpeedDelta, 0, 0);
             _leftRearWheelTransform.Rotation = new float3(_leftRearWheelTransform.Rotation.x + wheelRotSpeed + wheelRotSpeedDelta, 0, 0);
             _rightFrontWheelTransform.Rotation = new float3(_rightFrontWheelTransform.Rotation.x +wheelRotSpeed - wheelRotSpeedDelta, 0, 0);
@@ -206,4 +207,6 @@ namespace Fusee.Tutorial.Core
             RC.Projection = projection;
         }
     }
+}
+
 }
