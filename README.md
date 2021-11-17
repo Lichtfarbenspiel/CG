@@ -1,2 +1,2 @@
 # CG
-Cumputergrafik Abgabe
+Computergrafik Abgabe
